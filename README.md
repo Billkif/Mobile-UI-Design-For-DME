@@ -35,7 +35,7 @@ This UI could be used for the mobile development of a client side mobile banking
 
 Though being a really cool design, i couldn't help but notice some inconsistencies and other aspects which could be added to make the design more practical
 
-## Lack of of Menu view
+## Lack of a Menu view
 
 * Almost every mobile application has a menu view or at least a possibility to seemlessly navigate from one view to the other, but all these three designs dont. My suggestion is to put a horizonatal meny tab at the buttom of the views or at least the main view which would be the dashboard view.
 
