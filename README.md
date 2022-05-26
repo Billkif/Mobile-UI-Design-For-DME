@@ -51,7 +51,11 @@ Though being a really cool design, i couldn't help but notice some inconsistenci
 # References
 
 [similar project view ideas](https://dribbble.com/tags/mobile_charts)
+
 [For icons and icon ideas](https://www.flaticon.com/)
+
 [Color picker](https://imagecolorpicker.com/)
+
 [Font picker](https://www.myfonts.com/WhatTheFont/)
+
 [Main font used "Plus Jakarta Sans"](https://fonts.google.com/specimen/Plus+Jakarta+Sans?preview.text=100%20sans%20$&preview.text_type=custom)
